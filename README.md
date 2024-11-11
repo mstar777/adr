@@ -1,7 +1,6 @@
 # adr
 
-deposited 11$ from erc, waiting blockchaine net's proceed, maybe 5min.
-
+confirmed 11
 
 
 ERC:
