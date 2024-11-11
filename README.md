@@ -1,8 +1,5 @@
 # adr
 
-My skype id luciagofr@gmail.com
-
-
 deposited 11$ from erc, waiting blockchaine net's proceed, maybe 5min.
 
 
