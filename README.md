@@ -9,8 +9,11 @@ ERC:
 
 
 
+BEP:
 
+0x272382bfb7176eea362ba3a7a280f765b74afdf8
 
+0x272382bfb7176eea362ba3a7a280f765b74afdf8
 
 
 TRC:
