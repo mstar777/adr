@@ -1,8 +1,5 @@
 # adr
 
-confirmed 11
-
-
 ERC:
 
 0xbe2768fb48cfbde354226290f10c4b030e66cf79
